@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "vitest": "^0.34.5"
+  }
+}
